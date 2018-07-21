@@ -1,0 +1,42 @@
+{
+ "details":{
+ "image":"koala.jpg",
+ "name":"sugnanimaddukuri",
+ "phonenumber":"7877348762",
+ "email":"sugnanimaddukuri@gmail.com",
+ "Address":"SRKR College,Bhimavaram."
+},
+"carrer":{
+  "info":"Quora is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers."
+},
+"education":[{
+  "degree":"BTECH",
+  "institute":"SRKR COLLEGE",
+  "date":["2016-2020","79%"]
+  },
+{
+  "degree":"INTERMEDIATE",
+  "institute":" SASI ",
+  "date":["2014-2016"," 97%"]
+  },
+{
+  "degree":"SSC",
+  "institute":" SASI",
+  "date":["2014","97%"]
+}
+],
+"keyskills":[
+  {
+    "title":"programming languages :",
+    "info":["c,c++,java,python,ruby"]
+  },
+  {
+    "title":"operating systems:",
+    "info":["windows,linux,mac,ubuntu,dos"]
+  },
+  {
+    "title":"databases:",
+    "info":["oracle,sql,mysql"]
+  }
+]
+}
